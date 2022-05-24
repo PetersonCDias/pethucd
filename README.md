@@ -27,8 +27,8 @@ Skills:  JS / Logica de Programação / Java / MYSQL / Front-end / Back-end / Bo
 <center>
 <table>
   <tr>
-    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=jaque20050&show_icons=true&theme=dracula></td>
-    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=jaque20050&show_icons=true&theme=dracula&layout=compact></td>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=pethucd&show_icons=true&theme=dracula></td>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=pethucd&show_icons=true&theme=dracula&layout=compact></td>
     
   </tr>  
 </table>
